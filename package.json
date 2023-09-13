@@ -1,0 +1,16 @@
+{
+  "name": "projeto_integrador_transdisciplinar",
+  "version": "1.0.0",
+  "description": "Projeto Integrador Transdisciplinar em Ciências da Computação II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Cesar de Souza Junior",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1",
+    "passport": "^0.6.0"
+  }
+}
